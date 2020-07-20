@@ -1,3 +1,4 @@
+copy copy
 # gd-utils-cht
 
 > 不只是最快的 google drive 拷貝工具 [與其他工具的對比](./compare.md)
